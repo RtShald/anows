@@ -1,0 +1,132 @@
+@mixin nav{
+  cursor: pointer;
+  font-weight: 400;
+  font-size: 15px;
+  letter-spacing: 0.2px;
+  text-transform: lowercase;
+  color: #222222;
+}
+@mixin btn{
+  width: 154px;
+  height: 46px;
+  background: #FD8558;
+  border: #FD8558;
+  font-weight: 700;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+@mixin title{
+  font-weight: 400;
+  font-size: 70px;
+  text-align: center;
+  color: #FFFFFF;
+}
+@mixin start{
+  width: 150px;
+  height: 56px;
+  font-weight: 700;
+  font-size: 15px;
+  color: #FFFFFF;
+  border: 2px solid #FD8558;
+  background: transparent;
+}
+@mixin herobtn{
+  width: 154px;
+  height: 56px;
+  background: #FD8558;
+  border: #FD8558;
+  font-weight: 700;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+@mixin fz24{
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 38px;
+  color: #333333;
+}
+@mixin poragraf{
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 26px;
+  color: #999999;
+}
+@mixin line{
+  width: 506px;
+  height: 2px;
+  background: #F5F5F5;
+}
+@mixin fz14{
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 15px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #FD8558;
+}
+@mixin fz32{
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 38px;
+  color: #333333;
+}
+@mixin shadow{
+  width: 320px;
+  height: 126px;
+  background: rgba(255, 255, 255, 0.75);
+}
+@mixin fs24{
+  font-weight: 400;
+  font-size: 24px;
+  color: #222222;
+}
+@mixin in{
+  width: 46px;
+  height: 46px;
+  background: #FFFFFF;
+  border: 2px solid #222222;
+}
+@mixin palka{
+  width: 334.08px;
+  height: 11.52px;
+  background: #C2C2C2;
+  transform: rotate(45deg);
+}
+@mixin test{
+  font-weight: 400;
+  font-size: 18px;
+  color: #222222;
+}
+@mixin fs24wh{
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 30px;
+  text-align: center;
+  text-transform: capitalize;
+  color: #FFFFFF;
+}
+@mixin fs14whp{
+  font-weight: 400;
+  font-size: 14px;
+  text-align: center;
+  color: #FCFCFC;
+}
+@mixin fz14t{
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 15px;
+  letter-spacing: 2px;
+  color: #FD8558;
+}
+@mixin inp{
+  width: 338px;
+  height: 58px;
+  background: #FFFFFF;
+  border: 1px solid #EEEEEE;
+}
+@mixin bababa{
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  color: #BABABA;
+}
