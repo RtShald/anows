@@ -1,27 +1,222 @@
 @media (max-width: 1440px){
   #hero .hero--title {
-    right: 484px;
+    right: 390px;
   }
-  #hero .hero--crug__krug {
-    left: 25px;
-  }
-  #creative .creative--block__lamp--rin__ring {
-    right: 699px;
+  #creative .creative--block__title{
+    margin:0 0 10px;
   }
   #creative .creative--block__lamp--krug__lamps {
-    left: 250px;
+    left: 229px;
+  }
+  #creative .creative--block__lamp--rin__ring {
+    right: 655px;
   }
   #creative .creative--block__lamp--tim__time {
-    right: 261px;
+    right: 249px;
   }
-  #crazy .title h2 {
+  #crazy .crazy--shadow__group {
+    margin: 118px -95px 0;
+  }
+  #team .team--foto__title {
+    position: absolute;
+    top: 603vh;
+    left: 200px;
+  }
+  #team .team--foto__titlee {
+    position: absolute;
+    top: 369vh;
+    left: 610px;
+  }
+  #team .team--foto__titleee {
+    position: absolute;
+    top: 369vh;
+    left: 1010px;
+  }
+  #team .team--foto__titleeee {
+    position: absolute;
+    top: 405vh;
+    left: 200px;
+  }
+  #team .team--foto__titleeeee {
+    position: absolute;
+    top: 405vh;
+    left: 610px;
+  }
+  #team .team--foto__titleeeeee {
+    position: absolute;
+    top: 405vh;
+    left: 1010px;
+  }
+  #testi .testi--profil__sp--ceo {
     padding: 0 20px 0 0;
   }
-  #crazy .crazy--block {
-    margin: 0 0 0 0;
+  #crazy .crazy--shadow__text {
+    width: 640px;
+  }
+}
+@media (max-width: 1366px) {
+  #hero .hero--title {
+    right: 390px;
+  }
+  #creative .creative--block__title{
+    margin:0 0 10px;
+  }
+  #creative .creative--block__lamp--krug__lamps {
+    left: 229px;
+  }
+  #creative .creative--block__lamp--rin__ring {
+    right: 655px;
+  }
+  #creative .creative--block__lamp--tim__time {
+    right: 249px;
+  }
+  #crazy .crazy--shadow__group {
+    margin: 118px -95px 0;
+  }
+  #team .team--foto__title {
+    position: absolute;
+    top: 643vh;
+    left: 200px;
+  }
+  #team .team--foto__titlee {
+    position: absolute;
+    top: 643vh;
+    left: 600px;
+  }
+  #team .team--foto__titleee {
+    position: absolute;
+    top: 643vh;
+    left: 1000px;
+  }
+  #team .team--foto__titleeee {
+    position: absolute;
+    top: 705vh;
+    left: 200px;
+  }
+  #team .team--foto__titleeeee {
+    position: absolute;
+    top: 705vh;
+    left: 610px;
+  }
+  #team .team--foto__titleeeeee {
+    position: absolute;
+    top: 705vh;
+    left: 1010px;
+  }
+  #testi .testi--profil__sp--ceo {
+    padding: 0 20px 0 0;
+  }
+  #crazy .crazy--shadow__text {
+    width: 640px;
   }
 }
 @media (max-width: 1200px){
+  #hero .hero--lun__lus {
+    margin: 146px 0 0 634px;
+  }
+  #creative .creative--block__lamp--krug__lamps {
+    left: 189px;
+    top: 1884px;
+  }
+  #creative .creative--block__lamp--rin__ring {
+    right: 576px;
+    top: 1886px;
+  }
+  #creative .creative--block__lamp--tim__time {
+    top: 1887px;
+    right: 200px;
+  }
+  #crazy .crazy--shadow__group--lines {
+    position: absolute;
+    top: 2726px;
+    left: 584px;
+  }
+  #crazy .crazy--shadow__group--line {
+    position: absolute;
+    top: 2727px;
+    right: 582px;
+  }
+  #crazy .crazy--shadow__group--linee {
+    top: 3216px;
+    left: 281px;
+  }
+  #crazy .crazy--shadow__group--linese {
+    top: 3213px;
+    right: 283px;
+  }
+  #crazy .crazy--block__foto--title {
+    top: 2812px;
+    left: 18px;
+    width: 282px;
+    height: 89px;
+  }
+  #crazy .crazy--block__foto--titles {
+    top: 3182px;
+    left: 18px;
+    width: 282px;
+    height: 89px;
+  }
+  #crazy .crazy--block__foto--titlee {
+    top: 2823px;
+    right: 18px;
+    width: 282px;
+    height: 89px;
+  }
+  #crazy .crazy--block__foto--titled {
+    top: 3182px;
+    right: 18px;
+    width: 282px;
+    height: 89px;
+  }
+  #crazy .crazy--block__foto--title h1 {
+    margin: 0 30px;
+  }
+  #crazy .crazy--block__foto--titles h1 {
+    margin: 0 30px;
+  }
+  #crazy .crazy--block__foto--titlee h1 {
+    margin: 0 30px;
+  }
+  #crazy .crazy--block__foto--titled h1 {
+    margin: 0 30px;
+  }
+  #team .team--foto__title {
+    top: 4148px;
+    left: 173px;
+  }
+  #team .team--foto__titlee {
+    top: 4148px;
+    left: 526px;
+  }
+  #team .team--foto__titleee {
+    top: 4148px;
+    left: 874px;
+  }
+  #team .team--foto__titleeee {
+    top: 4554px;
+    left: 177px;
+  }
+  #team .team--foto__titleeeee {
+    top: 4554px;
+    left: 539px;
+  }
+  #team .team--foto__titleeeeee {
+    top: 4554px;
+    left: 890px;
+  }
+  #testi .testi h1 {
+    font-size: 172px;
+    padding: 40px 0 20px;
+  }
+  #testi {
+    height: 655px;
+  }
+  #futer .anow {
+    margin: 80px 232px 0 260px;
+  }
+  #crazy .crazy {
+    padding: 0 5px;
+  }
   #hero {
     width: 100%;
   }
@@ -37,12 +232,6 @@
   *{
     padding: 0;
     margin: 0;
-  }
-  #header .header--btn {
-    padding: 5px 241px 0 0;
-  }
-  #hero .hero--lun__lus {
-    margin: 223px 0 0 334px;
   }
   #hero .hero--foto__ypit {
     margin: 0 0 -43px 685px;
@@ -70,17 +259,6 @@
   #creative {
     padding: 81px 0 60px;
   }
-  #creative .creative--block__lamp--krug__lamps {
-    left: 194px;
-    top: 1941px;
-  }
-  #creative .creative--block__lamp--rin__ring {
-    right: 570px;
-    top: 1951px;
-  }
-  #creative .creative--block__lamp--tim__time {
-    right: 200px;
-  }
   #crazy .crazy--block {
     margin: 0 -4px 0 0;
   }
@@ -95,14 +273,6 @@
   #crazy .crazy--shadow__group {
     margin:0 0;
   }
-  #crazy .crazy--shadow__group--line {
-    position: absolute;
-    top: 350vh;
-  }
-  #crazy .crazy--shadow__group--lines {
-    position: absolute;
-    top: 350vh;
-  }
   #crazy .crazy--shadow__text h1 {
     margin: 0 0 0 10px;
   }
@@ -115,9 +285,6 @@
   #team .team--btn {
     padding: 30px 400px 30px 487px;
   }
-  #testi .testi h1 {
-    padding: 40px 0 20px;
-  }
   #new .new--group__block{
     margin:0 10px;}
   #contact .contact--btn {
@@ -128,6 +295,106 @@
   }
 }
 @media (max-width: 1024px){
+  #futer .futer--began {
+    margin: 0 97px 0 20px;
+  }
+  #futer .futer--home p {
+    margin: 10px 15px 0 0;
+  }
+  #creative .creative--block__lamp--krug__lamps {
+    left: 164px;
+    top: 1944px;
+  }
+  #creative .creative--block__lamp--rin__ring {
+    right: 487px;
+    top: 1939px;
+  }
+  #creative .creative--block__lamp--tim__time {
+    right: 177px;
+    top: 1939px;
+  }
+  #crazy .crazy--shadow__group--line {
+    top: 378vh;
+    left: 240px;
+    width: 292.08px;
+    height: 11.52px;
+  }
+  #crazy .crazy--shadow__group--lines {
+    top: 378vh;
+    left: 492px;
+    width: 292.08px;
+    height: 11.52px;
+  }
+  #crazy .crazy--block__foto--title {
+    top: 392vh;
+    left: 16px;
+    width: 247px;
+    height: 100px;
+  }
+  #crazy .crazy--block__foto--titlee {
+    top: 393vh;
+    right: 9px;
+    width: 247px;
+    height: 100px;
+  }
+  #crazy .crazy--block__foto--titles {
+    top: 441vh;
+    left: 7px;
+    width: 253px;
+    height: 100px;
+  }
+  #crazy .crazy--block__foto--titled {
+    top: 441vh;
+    width: 253px;
+    height: 100px;
+    right: 9px;
+  }
+  #crazy .crazy--shadow__text {
+    margin: 583px 15px 0;
+    width: 440px;
+    height: 100px;
+  }
+  #crazy .crazy--shadow__group--linese {
+    width: 292.08px;
+    height: 11.52px;
+    top: 446vh;
+    right: 32vh;
+  }
+  #crazy .crazy--shadow__group--linee {
+    top: 446vh;
+    left: 32vh;
+    width: 292.08px;
+    height: 11.52px;
+  }
+  #team .team--foto__title {
+    top: 563vh;
+    left: 145px;
+  }
+  #team .team--foto__titlee {
+    top: 563vh;
+    left: 434px;
+  }
+  #team .team--foto__titleee {
+    top: 563vh;
+    left: 738px;
+  }
+  #team .team--foto__titleeee {
+    top: 608vh;
+    left: 137px;
+  }
+  #team .team--foto__titleeeee {
+    position: absolute;
+    top: 608vh;
+    left: 435px;
+  }
+  #team .team--foto__titleeeeee {
+    position: absolute;
+    top: 608vh;
+    left: 741px;
+  }
+  #team .team--btn {
+    padding: 30px 380px 30px 378px;
+  }
   #hero .hero--title h1 {
     font-weight: 400;
     font-size: 55px;
@@ -149,8 +416,11 @@
   #hero {
     width: 100%;
   }
+  #hero .hero--foto__ypit {
+    margin: 0 0 -43px 779px;
+  }
   #header .header--btn {
-    margin: 0px -158px 0px 0px;
+    margin: 0px -16px 0px 0px;
   }
   #hero .hero--crug {
     left: 282px;
@@ -172,7 +442,7 @@
     width: 134px;
   }
   #hero .hero--lun__lus {
-    margin: 75px 0 0 156px;
+    margin: 136px 0 0 156px;
   }
   #hero .hero--x {
     padding: 163px 0 0 884px;
@@ -193,18 +463,6 @@
   #ultimate .ultimate--group__title--text {
     padding: 8px 0 0;
   }
-  #creative .creative--block__lamp--krug__lamps {
-    left: 164px;
-    top: 1904px;
-  }
-  #creative .creative--block__lamp--rin__ring {
-    right: 487px;
-    top: 1904px;
-  }
-  #creative .creative--block__lamp--tim__time {
-    right: 177px;
-    top: 1904px;
-  }
   #creative .creative--block {
     padding: 0 48px;
   }
@@ -219,70 +477,9 @@
   #take .take--title__text {
     padding: 0 0 0 0;
   }
-  #crazy .crazy--shadow__group--line {
-    width: 292.08px;
-    height: 11.52px;
-  }
-  #crazy .crazy--shadow__group--lines {
-    width: 307.08px;
-    height: 11.52px;
-  }
-  #crazy .crazy--shadow__group--linese {
-    width: 292.08px;
-    height: 11.52px;
-    top: 440vh;
-    right: 31vh;
-  }
-  #crazy .crazy--shadow__group--linee {
-    top: 440vh;
-    left: 31vh;
-    width: 292.08px;
-    height: 11.52px;
-  }
-  #crazy .crazy--shadow__group--line {
-    top: 373vh;
-    left: 240px;
-  }
-  #crazy .crazy--shadow__group--lines {
-    top: 373vh;
-    right: 233px;
-  }
-  #crazy .crazy--shadow__group--lines {
-    top: 373vh;
-    right: 190px;
-  }
   #crazy .crazy--block__foto img {
     width: 277px;
     height: 361px;
-  }
-  #crazy .crazy--block__foto--title {
-    top: 386vh;
-    left: 16px;
-    width: 247px;
-    height: 100px;
-  }
-  #crazy .crazy--block__foto--titles {
-    top: 434vh;
-    left: 7px;
-    width: 253px;
-    height: 100px;
-  }
-  #crazy .crazy--block__foto--titlee {
-    top: 386vh;
-    right: 9px;
-    width: 247px;
-    height: 100px;
-  }
-  #crazy .crazy--block__foto--titled {
-    top: 434vh;
-    width: 253px;
-    height: 100px;
-    right: 9px;
-  }
-  #crazy .crazy--shadow__text {
-    margin: 565px 15px 0;
-    width: 440px;
-    height: 100px;
   }
   #crazy .crazy--block__foto--title h1 {
     margin: 0 18px;
@@ -302,32 +499,6 @@
   }
   #team .team--foto {
     padding: 0 3px 20px;
-  }
-  #team .team--foto__title {
-    top: 557vh;
-    left: 145px;
-  }
-  #team .team--foto__titlee {
-    top: 557vh;
-    left: 434px;
-  }
-  #team .team--foto__titleee {
-    top: 557vh;
-    left: 738px;
-  }
-  #team .team--foto__titleeee {
-    top: 602vh;
-    left: 137px;
-  }
-  #team .team--foto__titleeeee {
-    position: absolute;
-    top: 602vh;
-    left: 435px;
-  }
-  #team .team--foto__titleeeeee {
-    position: absolute;
-    top: 602vh;
-    left: 741px;
   }
   #new .new--group__block img {
     width: 293px;
@@ -363,6 +534,118 @@
   }
 }
 @media (max-width: 992px){
+  #hero .hero--title {
+    position: absolute;
+    top: 276px;
+    right: 242px;
+  }
+  #creative .creative--block__lamp--krug__lamps {
+    left: 161px;
+    top: 1982px;
+  }
+  #creative .creative--block__lamp--rin__ring {
+    right: 471px;
+    top: 1967px;
+  }
+  #creative .creative--block__lamp--tim__time {
+    right: 171px;
+    top: 1966px;
+  }
+  #crazy .crazy--shadow__group--line {
+    width: 221.08px;
+    height: 11.52px;
+    top: 498vh;
+    left: 251px;
+  }
+  #crazy .crazy--shadow__group--lines {
+    width: 221.08px;
+    height: 11.52px;
+    top: 498vh;
+    left: 520px;
+  }
+  #crazy .crazy--shadow__group--linee {
+    top: 598vh;
+    left: 44vh;
+    width: 221.08px;
+    height: 11.52px;
+  }
+  #crazy .crazy--shadow__group--linese {
+    width: 221.08px;
+    height: 11.52px;
+    top: 597vh;
+    right: 44vh;
+  }
+  #crazy .crazy--block__foto--titles {
+    top: 522vh;
+    left: 39px;
+    width: 211px;
+    height: 77px;
+  }
+  #crazy .crazy--block__foto--title {
+    top: 590vh;
+    left: 21px;
+    width: 226px;
+    height: 77px;
+  }
+  #crazy .crazy--block__foto--titled {
+    top: 523vh;
+    width: 225px;
+    height: 77px;
+    right: 26px;
+  }
+  #crazy .crazy--block__foto--titlee {
+    top: 589vh;
+    right: 28px;
+    width: 221px;
+    height: 77px;
+  }
+  #crazy .crazy--shadow__text {
+    width: 344px;
+    margin: 599px 51px 0;
+    height: 81px;
+  }
+  #team .team--foto__title {
+    position: absolute;
+    top: 753vh;
+    left: 261px;
+  }
+  #team .team--foto__titlee {
+    position: absolute;
+    top: 754vh;
+    left: 583px;
+  }
+  #team .team--foto__titleee {
+    position: absolute;
+    top: 809vh;
+    left: 249px;
+  }
+  #team .team--foto__titleeee {
+    position: absolute;
+    top: 813vh;
+    left: 584px;
+  }
+  #team .team--foto__titleeeee {
+    position: absolute;
+    top: 873vh;
+    left: 257px;
+  }
+  #team .team--foto__titleeeeee {
+    position: absolute;
+    top: 874vh;
+    left: 576px;
+  }
+  #new .new--group {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: baseline;
+  }
+  #futer .futer--began__poragraf {
+    display: flex;
+    padding: 20px 0 0;
+    flex-direction: column;
+  }
   #header .header {
     display: flex;
     align-items: center;
@@ -527,10 +810,6 @@
   #testi {
     height: 572px;
     background: #3A0F73;
-  }
-  img {
-    width: 266px;
-    height: 212px;
   }
   #contact .contact--you__name input {
     width: 262px;
@@ -1047,3 +1326,4 @@
 @media (max-width: 400px){}
 @media (max-width: 380px){}
 @media (max-width: 320px){}
+@media (max-width: 1440px){}
