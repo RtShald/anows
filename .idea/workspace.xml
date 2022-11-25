@@ -6,7 +6,6 @@
       <change beforePath="$PROJECT_DIR$/css/media.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/media.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/media.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/media.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/media.scss" beforeDir="false" afterPath="$PROJECT_DIR$/media.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mixin.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mixin.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +61,9 @@
       <workItem from="1669264186722" duration="24560000" />
       <workItem from="1669304250542" duration="8635000" />
       <workItem from="1669342843939" duration="2206000" />
-      <workItem from="1669353137384" duration="820000" />
+      <workItem from="1669353137384" duration="1891000" />
+      <workItem from="1669361584829" duration="271000" />
+      <workItem from="1669382588034" duration="1230000" />
     </task>
     <servers />
   </component>
